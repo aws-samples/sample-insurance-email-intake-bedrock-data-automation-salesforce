@@ -268,7 +268,7 @@ aws secretsmanager delete-secret \
 
 ## Security
 
-See [CONTRIBUTING](CONTRIBUTING) for more information.
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License
 
